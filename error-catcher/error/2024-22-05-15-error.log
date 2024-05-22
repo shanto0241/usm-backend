@@ -1,0 +1,1 @@
+Wed May 22 2024 15:2:23 } [paleblue.dev] error: 🙇‍♂️👎Failed connect to database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
