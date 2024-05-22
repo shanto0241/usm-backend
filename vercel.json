@@ -14,8 +14,7 @@
     ],
     "headers": [
       {
-        "source": "*", 
-        "value": "*" 
+        "src": "*"
       }
     ]
   }
